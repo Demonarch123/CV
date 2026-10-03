@@ -122,6 +122,11 @@ nav {
                 border-radius: 8px;
                 padding: 20px;
             }
+
+            #name, #pr
+            {
+                text-align: center;
+            }
             
 
 
