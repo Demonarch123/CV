@@ -1,7 +1,7 @@
-nav {
+            nav {
                 font-family: sans-serif;
                 font-weight: bold;
-                background: #000000;
+                background: #020617;
                 margin: -8px -8px 0 -8px;
                 padding: 0;
                 box-sizing: border-box;
@@ -24,11 +24,11 @@ nav {
             }
 
             nav a:hover {
-                background: #1976d275;
+                background: #2089b6;
             }
 
             nav a.active {
-                background: #888484;
+                background: #1e293b;
             }
             img
             {
@@ -38,7 +38,7 @@ nav {
 
 
             .card {
-           background: #c9c3c3;
+           background: #1e293b;
             border-radius: 8px;
             box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
             display: grid;
@@ -71,7 +71,7 @@ nav {
 
             .block
             {
-            background: #c9c3c3;
+            background: #1e293b;
             padding: 20px;
             border-radius: 8px;
             }
@@ -118,7 +118,7 @@ nav {
 
             #block
             {
-                background: #c9c3c3;
+                background: #1e293b;
                 border-radius: 8px;
                 padding: 20px;
             }
@@ -127,6 +127,16 @@ nav {
             {
                 text-align: center;
             }
+
+            h1, h2, h3, p, ul
+            {
+                color: #f8fafc;
+            }
+
+            body
+             {
+                background: #0f172a;
+             }
             
 
 
